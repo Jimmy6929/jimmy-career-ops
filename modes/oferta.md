@@ -188,11 +188,6 @@ Guardar evaluación completa en `reports/{###}-{company-slug}-{YYYY-MM-DD}.md`.
 ## G) Posting Legitimacy
 (contenido completo del bloque G)
 
-## H) Draft Application Answers
-(solo si score >= 4.5 — borradores de respuestas para el formulario de aplicación)
-
----
-
 ## Keywords extraídas
 (lista de 15-20 keywords del JD para ATS optimization)
 ```
@@ -206,7 +201,7 @@ Guardar evaluación completa en `reports/{###}-{company-slug}-{YYYY-MM-DD}.md`.
 - Rol
 - Score: promedio de match (1-5)
 - Estado: `Evaluada`
-- PDF: ❌ (o ✅ si auto-pipeline generó PDF)
+- PDF: `—` (no auto-generado en el flujo por defecto; opt-in via `/career-ops pdf`, en cuyo caso pasa a ✅)
 - Report: link relativo al report .md (ej: `[001](reports/001-company-2026-01-01.md)`)
 
 **Formato del tracker:**

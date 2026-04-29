@@ -69,6 +69,15 @@ function detectApi(company) {
     };
   }
 
+  // Workable (widget API — public, no auth)
+  const workableMatch = url.match(/apply\.workable\.com\/(?:o\/)?([^/?#]+)/);
+  if (workableMatch) {
+    return {
+      type: 'workable',
+      url: `https://apply.workable.com/api/v1/widget/accounts/${workableMatch[1]}?details=true`,
+    };
+  }
+
   return null;
 }
 
@@ -104,7 +113,23 @@ function parseLever(json, companyName) {
   }));
 }
 
-const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever };
+function parseWorkable(json, companyName) {
+  const jobs = json.jobs || [];
+  return jobs.map(j => {
+    const loc = j.locations?.[0];
+    const locStr = loc
+      ? [loc.city, loc.region, loc.country].filter(Boolean).join(', ')
+      : [j.city, j.state, j.country].filter(Boolean).join(', ');
+    return {
+      title: j.title || '',
+      url: j.url || j.shortlink || '',
+      company: companyName,
+      location: locStr,
+    };
+  });
+}
+
+const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever, workable: parseWorkable };
 
 // ── Fetch with timeout ──────────────────────────────────────────────
 

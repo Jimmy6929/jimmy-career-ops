@@ -23,28 +23,26 @@ Ejecutar exactamente igual que el modo `oferta` (leer `modes/oferta.md` para tod
 Guardar la evaluación completa en `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` (ver formato en `modes/oferta.md`).
 Include Block G in the saved report. Add `**Legitimacy:** {tier}` to the report header.
 
-## Paso 3 — Generar PDF
-Ejecutar el pipeline completo de `pdf` (leer `modes/pdf.md`).
+## Paso 3 — Generar Apply Draft `.md` (solo si score >= 3.5)
 
-## Paso 4 — Draft Application Answers (solo si score >= 4.5)
+Si el score final es >= 3.5, generar el apply draft estándar como archivo independiente.
 
-Si el score final es >= 4.5, generar borrador de respuestas para el formulario de aplicación:
+**Output:** `interview-prep/{company-slug}-{role-shorthand}-apply-draft-{YYYY-MM-DD}.md`
 
-1. **Extraer preguntas del formulario**: Usar Playwright para navegar al formulario y hacer snapshot. Si no se pueden extraer, usar las preguntas genéricas.
-2. **Generar respuestas** siguiendo el tono (ver abajo).
-3. **Guardar en el report** como sección `## H) Draft Application Answers`.
+**Estructura:** Seguir EXACTAMENTE la plantilla canónica definida en `modes/_profile.md` → "Your Application Pack Defaults" → "Apply-draft canonical structure". No improvisar:
+- Header block (Company, Date, Report link, Score, URL, Comp, Status)
+- Standard fields table (12 rows: name through resume upload)
+- **Exactamente 3 open-ended questions:**
+  - Q1: Why {Company}?
+  - Q2: Tell us about a relevant project or proof point.
+  - Q3: Anything else you'd like us to know?
+- Notes block (pre-submit checklist)
 
-### Preguntas genéricas (usar si no se pueden extraer del formulario)
+**No generar** Section H dentro del report, ni cover letter `.txt`, ni CV PDF. Esos solo corren cuando el usuario los pide explícitamente (ver "Trigger phrases" en `_profile.md`).
 
-- Why are you interested in this role?
-- Why do you want to work at [Company]?
-- Tell us about a relevant project or achievement
-- What makes you a good fit for this position?
-- How did you hear about this role?
+### Tono para las 3 respuestas
 
-### Tono para Form Answers
-
-**Posición: "I'm choosing you."** el candidato tiene opciones y está eligiendo esta empresa por razones concretas.
+**Posición: "I'm choosing you."** El candidato tiene opciones y está eligiendo esta empresa por razones concretas.
 
 **Reglas de tono:**
 - **Confiado sin arrogancia**: "I've spent the past year building production AI agent systems — your role is where I want to apply that experience next"
@@ -54,15 +52,14 @@ Si el score final es >= 4.5, generar borrador de respuestas para el formulario d
 - **El hook es la prueba, no la afirmación**: En vez de "I'm great at X", decir "I built X that does Y"
 
 **Framework por pregunta:**
-- **Why this role?** → "Your [specific thing] maps directly to [specific thing I built]."
-- **Why this company?** → Mencionar algo concreto sobre la empresa. "I've been using [product] for [time/purpose]."
-- **Relevant experience?** → Un proof point cuantificado. "Built [X] that [metric]. Sold the company in 2025."
-- **Good fit?** → "I sit at the intersection of [A] and [B], which is exactly where this role lives."
-- **How did you hear?** → Honesto: "Found through [portal/scan], evaluated against my criteria, and it scored highest."
+- **Q1 Why {Company}?** → Mencionar algo concreto sobre la empresa + un mapping de la experiencia. "Your [specific thing] maps directly to [specific thing I built]."
+- **Q2 Relevant project?** → Un proof point cuantificado con STAR+R. "Built [X] that [metric]. Reflection: [what I'd do differently]."
+- **Q3 Anything else?** → Opcional. Use para: London relocation, BN(O) no-sponsorship, portfolio link, idiomas. Saltar si Q1+Q2 ya cubren todo.
 
-**Idioma**: Siempre en el idioma del JD (EN default). Aplicar `/tech-translate`.
+**Idioma**: Siempre en el idioma del JD (EN default).
 
-## Paso 5 — Actualizar Tracker
-Registrar en `data/applications.md` con todas las columnas incluyendo Report y PDF en ✅.
+## Paso 4 — Actualizar Tracker
+
+Registrar en `data/applications.md` con todas las columnas. Importante: la columna **PDF** se escribe como `—` (em-dash), NO como `❌` ni `✅`. PDF ya no es parte del flujo por defecto; solo se genera si el usuario invoca `/career-ops pdf` explícitamente, en cuyo caso la columna se actualiza a `✅`.
 
 **Si algún paso falla**, continuar con los siguientes y marcar el paso fallido como pendiente en el tracker.
