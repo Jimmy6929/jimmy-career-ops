@@ -41,3 +41,6 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+
+# Soft-archived working copies (kept locally for recovery; not tracked in git)
+.archive/
