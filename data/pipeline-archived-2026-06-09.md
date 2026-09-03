@@ -1,0 +1,819 @@
+# Pipeline backlog — archived 2026-06-09 (FDE/Founding retargeting)
+
+Dropped from data/pipeline.md "## Pendientes" by the new title_filter (analyst/ops noise)
+and a conservative geo block. Nothing is deleted — to restore a role, move its line back
+into data/pipeline.md under "## Pendientes".
+
+## Dropped — failed new title_filter (795)
+
+- [ ] https://workinstartups.com/details/4911541522 | Consilio | Application Support Engineer (London)
+- [ ] https://wellfound.com/jobs/1579589-fintech-customer-success-manager-london | VALK | Fintech Customer Success Manager (London)
+- [ ] https://wellfound.com/jobs/2692895-customer-success-associate | Wunderkind | Customer Success Associate (London)
+- [ ] https://wellfound.com/jobs/3039519-technical-customer-success-manager | Encord | Technical Customer Success Manager (London)
+- [ ] https://wellfound.com/jobs/3159767-customer-success-manager | ComplyAdvantage | Customer Success Manager (London)
+- [ ] https://wellfound.com/jobs/3335989-customer-success-manager | AppsFlyer | Customer Success Manager (London)
+- [ ] https://app.welcometothejungle.com/jobs/McUflTE0 | Suade | Customer Success / Customer Support (London)
+- [ ] https://www.welcometothejungle.com/en/companies/contentsquare/jobs/customer-success-manager_london | Contentsquare | Customer Success Manager (London)
+- [ ] https://www.welcometothejungle.com/en/companies/mytraffic/jobs/customer-success-manager-m-f_london | MyTraffic | Customer Success Manager UK (London)
+- [ ] https://www.welcometothejungle.com/en/companies/algolia/jobs/customer-success-manager-emea_londres | Algolia | Customer Success Manager EMEA (London)
+- [ ] https://www.welcometothejungle.com/en/companies/spendesk/jobs/customer-success-manager-uk_london | Spendesk | Customer Success Manager UK (London)
+- [ ] https://app.welcometothejungle.com/jobs/T3ncWOGd | Orbital | Customer Success Manager (London)
+- [ ] https://uk.linkedin.com/jobs/view/sales-development-representative-sdr-saas-startup-permanent-at-collective-work-4405800615 | Collective Work | SDR — SaaS Startup (London) ⚠️ LinkedIn login required
+- [ ] https://uk.linkedin.com/jobs/view/sales-development-representative-at-everfield-4401724651 | Everfield | Sales Development Representative (London) ⚠️ LinkedIn login required
+- [ ] https://uk.linkedin.com/jobs/view/sales-development-representative-london-at-sunday-4400759241 | Sunday | Sales Development Representative — London ⚠️ LinkedIn login required
+- [ ] https://uk.linkedin.com/jobs/view/sales-development-representative-london-at-blp-4401451105 | BLP | Sales Development Representative — London ⚠️ LinkedIn login required
+- [ ] https://www.linkedin.com/jobs/view/scaled-customer-success-manager-at-synthesia-4403144753 | Synthesia | Scaled Customer Success Manager (London) ⚠️ LinkedIn login required
+- [ ] https://uk.linkedin.com/jobs/view/customer-success-manager-at-insendi-3691643113 | insendi | Customer Success Manager (London) ⚠️ LinkedIn login required
+- [ ] https://jobs.ashbyhq.com/bland/72c82d6b-99c1-4bae-a5c8-267c74b13081 | Bland AI | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/bland/f47deb2b-c31a-467e-afc1-cf38134cd370 | Bland AI | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/bland/65bd2e9d-e5c5-4642-b49f-9cb4ab931e31 | Bland AI | Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/vapi/6c313f2f-5287-4e51-a0a4-a38cda6f79dc | Vapi | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e22e14d8-0766-445f-9570-6037c7300c73 | ElevenLabs | Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f330bd23-f909-4e50-bf58-9974aee85fc8 | ElevenLabs | Customer Success - Scale - Western Europe
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8998a48c-6bc4-42fc-b4b5-e779d810f930 | ElevenLabs | Customer Success - Strategic - Western Europe
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ab51c926-63fe-43ff-b7f1-7859e6032b12 | ElevenLabs | Sales Development - UK/I
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1bd5957c-6799-4b0d-b33d-1d8f7fc56c09 | ElevenLabs | Customer Success - Central Eastern Europe
+- [ ] https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6 | ElevenLabs | Sales Development - Southern Europe
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4784892101 | PolyAI | Senior Channel Solutions Consultant
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822441101 | PolyAI | Senior Partner Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3 | Deepgram | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/deepgram/5e26347c-f7c6-412c-93c8-2b162d546cc1 | Deepgram | Senior Developer Advocate, Partner Ecosystem
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4635890101 | Parloa | Business Development Representative
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4751509101 | Parloa | Senior Forward Deployed Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4747267101 | Parloa | Senior Forward Deployed Engineer - UK
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8425211002 | Airtable | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8462421002 | Airtable | Senior Partner Solutions Architect
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8487502002 | Airtable | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7892134002 | Airtable | Solutions Consultant-Northeast
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8378476002 | Airtable | Solutions Consultant | Southern
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8497826002 | Airtable | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807477 | Intercom | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7765514 | Intercom | Business Development Representative, MidMarket/Commercial
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7117979 | Intercom | Customer Success Manager, High Touch
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7765466 | Intercom | Engineering Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7644731 | Intercom | Manager, Solutions Engineering (Mid-Market & Enterprise) 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7546384 | Intercom | Sales Development Coordinator (6 month FTC) 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7695468 | Intercom | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7370567 | Intercom | Scaled Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7733203 | Intercom | Senior Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7699745 | Intercom | Senior Engineering Manager - Developer Experience Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7218259 | Intercom | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7763257 | Intercom | Senior Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7262006 | Intercom | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7594453 | Intercom | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7600712 | Intercom | Strategic Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6436276 | Intercom | Technical Support Engineer 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7542302 | Intercom | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/sierra/7053ca02-ee36-48cc-b331-9d795a966c4c | Sierra | Developer Relations Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/684fe45e-e8ab-40bc-8faa-c291646a48bb | Sierra | Sales Engineering Manager
+- [ ] https://jobs.ashbyhq.com/sierra/c6378c64-afc9-4751-a79b-a888fe6ceb70 | Sierra | Support Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4939815008 | Anthropic | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4969427008 | Anthropic | Business Development Representative - EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153511008 | Anthropic | Customer Success Manager, Beneficial Deployments, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5062733008 | Anthropic | Customer Success Manager, Digital Native Business
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5175932008 | Anthropic | Customer Success Manager, Higher Education
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068570008 | Anthropic | Customer Success Manager, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174700008 | Anthropic | Customer Success Manager, Scaled
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5172501008 | Anthropic | Customer Success Manager, Southern Europe
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5082455008 | Anthropic | Customer Success Manager, Strategics
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5113368008 | Anthropic | Developer Community Lead - EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4802076008 | Anthropic | IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121912008 | Anthropic | Manager, Sales Development - EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5095484008 | Anthropic | Manager, Sales Development (Enterprise)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099163008 | Anthropic | Manager, Sales Development (Startups & Commercial)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4979585008 | Anthropic | Product Support Specialist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5171124008 | Anthropic | Strategic Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/decagon/63dd8fb8-8c5b-44e4-8371-5ad453b56eb8 | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/476e3152-3f9a-48ea-89bd-30516bccead7 | Decagon | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/decagon/5bf50bc3-f676-4edc-90d2-bc8154d7ee84 | Decagon | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/decagon/037ea083-e556-4ce7-aca0-ec88f63772fc | Decagon | Manager, Sales Development
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5191760008 | RunPod | Developer Relations Community Manager 
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5171627008 | RunPod | Technical Support Analyst (L2)
+- [ ] https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0 | Zapier | Automation Strategist (Customer Success)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4520713005 | Glean | Designated Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4653829005 | Glean | GTM Onboarding & Readiness Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4658698005 | Glean | Onboarding & Training Lead
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4498039005 | Glean | Sales Development Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4338812005 | Glean | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4633704005 | Glean | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4622149005 | Glean | Sales Development Representative (Dutch)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651043005 | Glean | Sales Development Representative (French)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4622147005 | Glean | Sales Development Representative (German)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4676087005 | Glean | Solutions Engineering Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4597765005 | Glean | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5968713004 | Vercel | Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5968725004 | Vercel | Customer Success Manager, EMEA
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806456004 | Vercel | Manager, Solutions Architecture
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5557835004 | Vercel | Sales Development Representative, Enterprise, UK&I
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5817808004 | Vercel | Senior Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5553789004 | Vercel | Senior Partner Solutions Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4833709101 | Speechmatics | Senior Business Development Representative
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704417004 | Arize AI | Developer Relations Engineer 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5838869004 | Arize AI | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/cohere/43e8ed06-4f3b-460e-aa8a-a0bde93f7bb5 | Cohere | IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/ffe6e95a-8055-48b1-abda-2389ad1b9827 | Cohere | Customer Success Manager, Public Sector & Defence
+- [ ] https://jobs.ashbyhq.com/cohere/a41a65cf-d154-44a4-b0e0-de9e6cc1786f | Cohere | Customer Support Engineer - Bilingual
+- [ ] https://jobs.ashbyhq.com/attio/9cb54602-4211-4eb9-baa3-ab5ead4628c1 | Attio | Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/attio/a66cc151-b1ba-4075-b609-bbc5ae9e8521 | Attio | SDR Manager
+- [ ] https://jobs.ashbyhq.com/attio/285f98e6-0b65-4688-b381-8ab6b7cff1ca | Attio | Technical Support Specialist 
+- [ ] https://jobs.ashbyhq.com/langchain/8aa63e71-b431-49d7-ab4a-bf4b3630d8e6 | LangChain | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/8b83f97a-12fb-42a6-9697-c3ef07646335 | LangChain | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/DeepL/39e0f20a-8cb8-40ae-a5e9-d10766a48719 | DeepL | Senior Premium Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/DeepL/1bce18dc-0371-41a3-b344-bb5aecd88698 | DeepL | Enterprise Onboarding Manager 
+- [ ] https://jobs.ashbyhq.com/DeepL/c332cc23-2c88-4902-ad5f-de551fb803c3 | DeepL | Senior Manager, Customer Success
+- [ ] https://jobs.ashbyhq.com/DeepL/8fbc4b4f-e740-4fa2-9108-f305812c495c | DeepL | Implementation Manager
+- [ ] https://jobs.ashbyhq.com/DeepL/04d92cd8-f99b-451d-bf10-a2b12d5de520 | DeepL | Customer Success Manager (Scale)
+- [ ] https://jobs.ashbyhq.com/DeepL/bf3617e0-d9ab-4983-8948-5c93b7e1038b | DeepL | Senior Premium Support Specialist 
+- [ ] https://jobs.ashbyhq.com/DeepL/06e473d1-85db-4e9d-8abc-68d7a011b295 | DeepL | Senior Solutions Consultant (Pre- Sales)
+- [ ] https://jobs.ashbyhq.com/DeepL/11e46d72-bb22-4fbc-9138-f3c001a2b02f | DeepL | Solutions Consultant (Pre-Sales)
+- [ ] https://jobs.ashbyhq.com/DeepL/f9da9380-338e-4cb8-9c35-fe6cf77322b3 | DeepL | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/DeepL/94827e9f-8552-4051-8ff5-65b3202015d2 | DeepL | SDR Manager, EMEA Outbound
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5125852008 | Black Forest Labs | Developer Relations Engineer
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4642947008 | Black Forest Labs | Senior Solutions Architect  
+- [ ] https://helsing.ai/jobs/4548166101?gh_jid=4548166101 | Helsing | IT Support Specialist 
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7390097 | Contentful | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/5852946 | Contentful | Business Development Representative, Mid Market UKI (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7701583 | Contentful | Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7565714 | Contentful | Customer Success Manager, Dedicated (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7593411 | Contentful | Customer Support Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7575009 | Contentful | Senior Customer Success Manager (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7754297 | Contentful | Senior Manager , Customer Success EMEA Enterprise (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7721145?gh_jid=7721145 | HelloFresh | Customer Support Specialist - German Bilingual
+- [ ] https://careers.hellofresh.com/global/en/job/7741329?gh_jid=7741329 | HelloFresh | Google IT Support Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7814196?gh_jid=7814196 | HelloFresh | [HELLOCONNECT] Client Solutions & Onboarding Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7517082?gh_jid=7517082 | HelloFresh | Logistics Associate
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003 | Celonis | Business Development Representative (SaaS Sales)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7542245003?gh_jid=7542245003 | Celonis | Customer Support Engineer-Level 1
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7609774003?gh_jid=7609774003 | Celonis | L2 Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7661631003?gh_jid=7661631003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7683570003?gh_jid=7683570003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence (Public Sector)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7661696003?gh_jid=7661696003 | Celonis | Senior Applied AI Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695043003?gh_jid=7695043003 | Celonis | Senior Applied AI Solutions Consultant 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7683572003?gh_jid=7683572003 | Celonis | Senior Applied AI Solutions Consultant (Public Sector)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7544809003?gh_jid=7544809003 | Celonis | Senior Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7609777003?gh_jid=7609777003 | Celonis | Senior Software Support Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7677452003?gh_jid=7677452003 | Celonis | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7609799003?gh_jid=7609799003 | Celonis | Senior Technical Support Engineer
+- [ ] https://traderepublic.com/en-de/about?jobId=7541899003&gh_jid=7541899003 | Trade Republic | Senior Platform Engineer – Developer Experience
+- [ ] https://n26.com/en-eu/careers/positions/7704226?gh_jid=7704226 | N26 | (Senior) Product Manager - Onboarding & KYC
+- [ ] https://jobs.ashbyhq.com/cradlebio/cbf8f13a-0606-4553-bc3c-2d18ece58b2a | Cradle | Solutions Consultant, Machine Learning
+- [ ] https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af | Photoroom | Business Development Representative
+- [ ] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II
+- [ ] https://sumup.com/careers/positions/8438089002?gh_jid=8438089002 | SumUp | Onboarding Agent with Dutch
+- [ ] https://sumup.com/careers/positions/8487105002?gh_jid=8487105002 | SumUp | Onboarding Agent with German
+- [ ] https://sumup.com/careers/positions/8487107002?gh_jid=8487107002 | SumUp | Onboarding Agent with Spanish/Portuguese
+- [ ] https://sumup.com/careers/positions/8378143002?gh_jid=8378143002 | SumUp | Sales Development Representative
+- [ ] https://sumup.com/careers/positions/8154601002?gh_jid=8154601002 | SumUp | Sales Development Representative - French Market
+- [ ] https://sumup.com/careers/positions/8087738002?gh_jid=8087738002 | SumUp | Sales Development Representative - German Market
+- [ ] https://sumup.com/careers/positions/8097283002?gh_jid=8097283002 | SumUp | Sales Development Representative - UK Market
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8493277002 | Wayve | IT Support Engineer
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7621849 | Scandit | Business Development Representative
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7820556 | Scandit | Senior Solutions Consultant (Enterprise Retail)
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7622058 | Scandit | Social Media and Community Manager
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789344101 | PhysicsX | Forward Deployed Applications - Senior Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4750017101 | PhysicsX | Senior Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/73b423b5-0fcc-422e-9490-0bb22bcd5a4e | Synthesia | Technical Support Associate
+- [ ] https://jobs.ashbyhq.com/synthesia/80f2ab32-2f99-4666-b109-432d30bf94ab | Synthesia | Solutions Consultant
+- [ ] https://jobs.ashbyhq.com/synthesia/2b03be25-5926-45ec-a361-358f3db823db | Synthesia | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/synthesia/3be3afcc-3358-480c-93df-516b7ee601d5 | Synthesia | Strategic Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/synthesia/a7adbc7d-043e-4350-9f14-dabaf848fd6f | Synthesia | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/synthesia/5c5f4870-8c44-498d-895f-8fbce11b209d | Synthesia | Onboarding & Employee Enablement Manager
+- [ ] https://jobs.ashbyhq.com/synthesia/6541c6c3-7382-48ee-a408-f712cebfcaba | Synthesia | IT Systems and Support Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/04f762ec-a3f3-42ac-8faf-2dfa0b1af3cc | Synthesia | Scaled Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/lovable/3e1b49f4-5e07-4a41-8478-89b7a2e84610 | Lovable |  Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/lovable/4fef27e2-82f3-4d43-80ae-465e1a9fe4f3 | Lovable | Enterprise Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience
+- [ ] https://jobs.ashbyhq.com/lovable/2ddd6773-7c86-4d99-b828-56afe4cb8482 | Lovable | AI/Scaled Customer Success Lead
+- [ ] https://jobs.ashbyhq.com/legora/ce9b7b29-2909-4d0d-93e8-dad83a1a06a1 | Legora | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/legora/d7a893e4-05ef-42f2-9eca-8f90761a45f9 | Legora | Business Development Representative - EMEA
+- [ ] https://jobs.ashbyhq.com/legora/918e5e3f-9dc1-418b-8775-45ff149f6bff | Legora | Customer Success Manager
+- [ ] http://stability.ai/careers?gh_jid=4558218101 | Stability AI | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b | Perplexity | Enterprise Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd | Perplexity | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/perplexity/111dfa6f-e6f3-45b6-9de4-69e4a28e3f12 | Perplexity | Enterprise Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/claylabs/c605042d-1bd4-4e0d-aa82-d92a2abecb59 | Clay Labs | Enterprise Growth Strategist (Customer Success)
+- [ ] https://jobs.ashbyhq.com/claylabs/55694518-a6ac-4f46-8ec8-ffbf8ab39917 | Clay Labs | Growth Strategist, Scale (Customer Success)
+- [ ] https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0 | Clay Labs | Growth Strategist, Enterprise (Customer Success)
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI)
+- [ ] https://jobs.ashbyhq.com/claylabs/667e178e-5d78-4537-9d4c-33bb9d0a904b | Clay Labs | Product Support Specialist (Weekend)
+- [ ] https://jobs.ashbyhq.com/claylabs/8b990516-43f9-4f12-b3fa-eeb980e69be6 | Clay Labs | Product Support Specialist
+- [ ] https://jobs.ashbyhq.com/claylabs/1a9bd842-0804-470d-9450-063fd181fcfa | Clay Labs | ClayDR Manager (SDR Manager) 
+- [ ] https://jobs.ashbyhq.com/claylabs/7e43bc1d-cb1c-47d5-a106-aef1d76e50fe | Clay Labs | Product Support Specialist 
+- [ ] https://jobs.ashbyhq.com/claylabs/4623405b-1062-4019-9979-129a86408d7b | Clay Labs | Enterprise Product Support Specialist
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4782691101 | Amplemarket | Junior Product Support Specialist
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4328655101 | Amplemarket | Product Support Specialist
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066423101 | Amplemarket | Sales Development Representative
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066969101 | Amplemarket | Senior Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/workos/0b8ebc20-37a2-484a-9220-ce1679764b08 | WorkOS | Business Development Representative
+- [ ] https://jobs.ashbyhq.com/workos/bb4e927b-5bbd-4704-954d-5b716c3ff1f3 | WorkOS | Developer Relations
+- [ ] https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4 | WorkOS | Developer Experience Engineer
+- [ ] https://jobs.ashbyhq.com/resend/06bd9cb2-d189-41b6-baf7-42bd5da9610f | Resend | Developer Experience Engineer 
+- [ ] https://jobs.ashbyhq.com/resend/f0af27d1-eddd-42b9-a962-f34dc350c390 | Resend | Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96 | Supabase | Database Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5699984004 | Hightouch | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5770046004 | Hightouch | Customer Success Engineer 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5762547004 | Hightouch | Implementation Manager
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5796608004 | Hightouch | Implementation Manager, EMEA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5806403004 | Hightouch | Manager, Implementation Management
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5972960004 | Hightouch | Manager, Sales Development
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5799720004 | Hightouch | Revenue Enablement Onboarding Program Manager
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5206751004 | Hightouch | Sales Development Representative, East
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5852028004 | Hightouch | Sales Development Representative, EMEA (France) 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5829222004 | Hightouch | Sales Development Representative, West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5842464004 | Hightouch | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/clerk/cc13322d-892c-4fec-bf9f-07dc605343b3 | Clerk | Senior Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009926009 | PlanetScale | Enterprise Support Engineer
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4146189009 | PlanetScale | Technical Account Manager
+- [ ] https://jobs.lever.co/mistral/b56f6523-b7d2-47a3-abe6-2c793c7672fc | Mistral AI | AI Developer Advocate
+- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Montreal
+- [ ] https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Morocco
+- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx
+- [ ] https://jobs.lever.co/mistral/a228ac73-62f1-4a2a-8afe-5070f445143f | Mistral AI | Technical Support Engineer - Use Cases
+- [ ] https://jobs.lever.co/mistral/f00a13aa-61f1-4c56-993c-20846adc2b15 | Mistral AI | Technical Support Engineer – On-Premise
+- [ ] https://jobs.lever.co/qonto/7a6a8c90-fe33-4e5a-b1eb-9a4a1a5cb70b | Qonto | Customer Onboarding Officer - German market 🇩🇪
+- [ ] https://jobs.lever.co/qonto/d068d705-9ffc-4e2f-a70d-e7d85522771f | Qonto | Customer Onboarding Officer - Italian Market 🇮🇹
+- [ ] https://jobs.lever.co/pigment/3ad3e4c6-33f2-49ef-8e97-a39abf812113 | Pigment | Business Development Representative
+- [ ] https://jobs.lever.co/pigment/d464e390-99e5-4ba3-8c0e-5af6731ac578 | Pigment | Customer Success Manager
+- [ ] https://jobs.lever.co/pigment/cce2140f-1934-43a9-ba9e-65760f896601 | Pigment | Onboarding Manager
+- [ ] https://jobs.lever.co/pigment/4102ea30-6a1e-425f-9516-899285e98414 | Pigment | Product Support Specialist
+- [ ] https://jobs.lever.co/pigment/9f801f5b-582b-4de1-9d3c-44009be0a856 | Pigment | Renewals Manager - Customer Success
+- [ ] https://jobs.lever.co/pigment/2b4a3f2a-19d8-44c5-88ce-3f4952756499 | Pigment | Senior Data Analyst (Customer Success)
+- [ ] https://jobs.lever.co/pigment/bd06d67c-d091-48fc-a747-b73735bfdf3a | Pigment | Solutions Consultant
+- [ ] https://jobs.lever.co/spotify/cdb74d88-da06-460c-b87c-9301923b8648 | Spotify | Associate Policy Support Specialist
+- [ ] https://jobs.lever.co/spotify/31bf7d45-9448-413c-8f61-b69a8f636f82 | Spotify | Backend Engineer - Platform Developer Experience
+- [ ] https://jobs.lever.co/spotify/345c2c98-5635-4575-9213-1ebbba0f9396 | Spotify | Senior Sales Engineer - Backstage
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807496 | Intercom | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7157535 | Intercom | Customer Success Manager, High Touch
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7749413 | Intercom | Engineering Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7644940 | Intercom | Manager, Solutions Engineering (Mid-Market & Enterprise) 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7733296 | Intercom | Senior Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7462098 | Intercom | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7600671 | Intercom | Strategic Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7366132 | Intercom | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8461582002 | Airtable | Senior Partner Solutions Architect
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8341413002 | Airtable | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186199008 | Anthropic | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5138042008 | Anthropic | Product Support Specialist
+- [ ] https://jobs.ashbyhq.com/sierra/06453dd1-a29f-4aea-bb06-2d49862860e8 | Sierra | Developer Relations Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/1a7adb8e-f652-4556-9540-651f5299a0cd | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/e86490e3-3045-4224-8db3-f288899cad83 | Decagon | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/decagon/c626ce37-9741-4ba5-a80b-deba77f57f3f | Decagon | Manager, Sales Development
+- [ ] https://jobs.ashbyhq.com/decagon/ee0c62b4-8e2a-4f0e-9bf4-9ff139374250 | Decagon | Implementation Manager
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5818258004 | Vercel | Senior Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4520700005 | Glean | Designated Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006925005 | Glean | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4657943005 | Glean | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4372145005 | Glean | Technical Support Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4833693101 | Speechmatics | Senior Business Development Representative
+- [ ] https://jobs.ashbyhq.com/attio/2be8c78b-34cc-414b-a580-6cc39a38655d | Attio | Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/attio/b24a32f5-1148-433e-9de8-48c8a1a6db73 | Attio | SDR Manager
+- [ ] https://jobs.ashbyhq.com/langchain/3efc7bc8-657c-4986-b39b-ce30e5d6cb17 | LangChain | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627752003?gh_jid=7627752003 | Celonis | Business Development Representative (SaaS Sales)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695040003?gh_jid=7695040003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695048003?gh_jid=7695048003 | Celonis | Senior Applied AI Solutions Consultant 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7672261003?gh_jid=7672261003 | Celonis | Senior Solutions Architect
+- [ ] https://n26.com/en-eu/careers/positions/7668142?gh_jid=7668142 | N26 | (Senior) Product Manager - Onboarding & KYC
+- [ ] https://jobs.ashbyhq.com/synthesia/3cb4a9ce-7f2d-4d37-86a5-f0fa9aa3aa7f | Synthesia | Technical Support Associate
+- [ ] https://jobs.ashbyhq.com/synthesia/856e8b2c-66c9-4e50-b6ae-28cf6de2f0a6 | Synthesia | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/claylabs/c3252c5a-bd68-4a6e-8fb7-cd05dcfe703d | Clay Labs | Product Support Specialist
+- [ ] https://jobs.ashbyhq.com/claylabs/f594adf7-32a9-43c7-9a36-495a5c710121 | Clay Labs | ClayDR Manager (SDR Manager) 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5842463004 | Hightouch | Technical Account Manager
+- [ ] https://jobs.lever.co/pigment/b1f69af7-afab-4980-bb26-0df9dce1b4b8 | Pigment | Business Development Representative
+- [ ] https://jobs.lever.co/spotify/ed3ee1fc-5a6d-4557-a62c-c5ba18ee849d | Spotify | Backend Engineer - Platform Developer Experience
+- [ ] https://jobs.lever.co/spotify/bff45020-31f6-4645-bcc0-af3e5a253c43 | Spotify | Senior Sales Engineer - Backstage
+- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7297051 | Intercom | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7488068 | Intercom | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5166519008 | Anthropic | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5858553004 | Vercel | Senior Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4520716005 | Glean | Designated Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4486297005 | Glean | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4684706005 | Glean | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/decagon/73ef8e9d-a6b3-4817-ab02-893c4ac72bad | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/8cdee5f4-bdde-4c4a-ae16-6acf45d82c83 | Decagon | Sales Development Representative (SDR)
+- [ ] https://jobs.ashbyhq.com/attio/7e241b07-2f1c-4998-81e1-f6f3a23a1d06 | Attio | Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695047003?gh_jid=7695047003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence
+- [ ] https://jobs.ashbyhq.com/sierra/23efd6e0-a64d-4421-b684-bbd44e5c752e | Sierra | Developer Relations Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5379537004 | Hightouch | Technical Account Manager
+- [ ] https://jobs.lever.co/pigment/cacf27e2-d0ca-4a09-8489-1fe000568eee | Pigment | Business Development Representative
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7716427 | GoCardless | Sales Development Representative
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7686267 | Monzo | Tech Ops Support Specialist
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7721390 | GoCardless | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/DeepL/85331c07-88f5-4004-9972-3906da73df9b | DeepL | Sales Development Representative - Inbound
+- [ ] https://jobs.ashbyhq.com/DeepL/890cfebd-e9e2-404c-8b17-f01f61bffbeb | DeepL | Customer Success Manager - Switzerland 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7708453003?gh_jid=7708453003 | Celonis | Senior Customer Support Engineer
+- [ ] https://jobs.lever.co/pigment/45adc800-6951-41e7-ae33-066854b87fe3 | Pigment | Solutions Consultant - UK
+- [ ] https://jobs.ashbyhq.com/synthesia/871b104b-91d8-4025-b510-168133e8c42f | Synthesia | Enterprise Customer Success Manager 
+- [ ] https://jobs.ashbyhq.com/synthesia/e7ff7ec3-cf5b-4bf8-a161-fe0471e81653 | Synthesia | Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677146005 | Glean | Sales Development Representative (Portuguese)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677145005 | Glean | Sales Development Representative (Spanish)
+- [ ] https://jobs.ashbyhq.com/DeepL/4aed90ec-695a-4e12-8502-34cf36021f40 | DeepL | Customer Success Manager - Scale
+- [ ] https://careers.hellofresh.com/global/en/job/7760770?gh_jid=7760770 | HelloFresh |  Learning Onboarding Specialist (all genders)
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/1df45c33-d9c1-4da0-81b7-2e6b5640e4cb | Aleph Alpha | IT Support Engineer (f/m/d)
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4839390101 | PhysicsX | Senior Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/e04146f6-f79a-4023-9523-fe691038b330 | Harvey | Mid Market Customer Success Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/0d750bf9-d3f2-4816-9e28-23d12a0ef2e2 | Harvey | Enterprise Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63 | Harvey | Software Engineer, Developer Experience (DevEx)
+- [ ] https://jobs.ashbyhq.com/harvey/993e43fa-a9a1-45be-9d74-3a96c7c303ef | Harvey | Majors Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/harvey/c2e8772a-ca9c-44ee-95fb-bbd64f57e7c4 | Harvey | Mid Market Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/harvey/d911b15e-29e4-453e-b192-4201c7937e1f | Harvey | Enterprise Customer Success Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265 | Harvey | Sales Development Representative (Language Speakers)
+- [ ] https://jobs.ashbyhq.com/harvey/9f0b40b1-37da-4d63-8079-a2cfc6db66f7 | Harvey | Manager, Sales Development, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/14852d91-3ba5-46c9-8eca-311b8feb09c0 | Harvey | Senior Software Engineer, Developer Experience (DevEx)
+- [ ] https://jobs.ashbyhq.com/harvey/0b806391-7412-41da-8289-3018eba9283a | Harvey | People Operations Coordinator, Onboarding
+- [ ] https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a | Harvey | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/harvey/27909c76-f5e9-466b-9938-d0cb2fa0007f | Harvey | Senior Solutions Architect
+- [ ] https://jobs.ashbyhq.com/harvey/78c71402-02bf-4533-99c6-10c1bad10b02 | Harvey | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/harvey/e22b1e1c-2d67-469b-b112-729132215d62 | Harvey | Majors Customer Success Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/67ee94ac-a1ad-4114-b358-2bcb610a126b | Harvey | Senior Solutions Architect, EMEA
+- [ ] https://jobs.ashbyhq.com/harvey/3ea5e27b-0efc-4338-9bf0-292dd49736ab | Harvey | Manager, Sales Development
+- [ ] https://jobs.lever.co/CordTechnologies/3edf4b66-feef-4746-856f-57cca429fb51 | Encord | Customer Support Engineer
+- [ ] https://jobs.lever.co/CordTechnologies/714b6985-69a0-414b-b766-ef6da0a3564e | Encord | Developer Advocate AI/ML
+- [ ] https://jobs.ashbyhq.com/primer.io/1cf0b833-8f22-402b-9f46-9b06fbb5b824 | Primer | Senior Customer Success Manager EU 
+- [ ] https://jobs.lever.co/mistral/b002e59e-c262-4c68-86a8-4af575f5c4df | Mistral AI | Engineering Team Lead, DevEx
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4848010101 | PolyAI | Developer Relations Manager
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/78a651b2-f5d2-43fb-b083-6c819ae3f0f6 | Aleph Alpha | IT Support Engineer (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7760768?gh_jid=7760768 | HelloFresh |  Learning Onboarding Specialist (all genders)
+- [ ] https://jobs.ashbyhq.com/legora/acb1e41e-606d-44e1-a7d9-8486b416dabd | Legora | Data Analyst – GTM & Customer Success
+- [ ] https://jobs.ashbyhq.com/primer.io/730a5398-eada-4270-9a28-b38047fffbb5 | Primer | Events and Community Manager
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7782952 | Contentful | Customer Success Manager - Enterprise
+- [ ] https://careers.hellofresh.com/global/en/job/7850696?gh_jid=7850696 | HelloFresh | Customer Success Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7768619?gh_jid=7768619 | HelloFresh | IT Support Engineer 
+- [ ] https://sumup.com/careers/positions/8524893002?gh_jid=8524893002 | SumUp | Tier 2 Technical Support Supervisor
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7856882 | Scandit | Digital Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4644523005 | Cleo AI | Sales Development Representative
+- [ ] https://job-boards.eu.greenhouse.io/truelayer/jobs/4822616101 | TrueLayer | Sales Development Representative 
+- [ ] https://jobs.ashbyhq.com/improbable/ec069273-37d0-45f0-9caf-071e94f0d041 | Improbable | Developer Relations Engineer
+- [ ] https://complyadvantage.com/careers/jobs/8446474002?gh_jid=8446474002 | ComplyAdvantage | Customer Success Manager
+- [ ] https://complyadvantage.com/careers/jobs/8462968002?gh_jid=8462968002 | ComplyAdvantage | Digital Customer Success Associate 
+- [ ] https://complyadvantage.com/careers/jobs/8425180002?gh_jid=8425180002 | ComplyAdvantage | Senior Partner Solutions Consultant
+- [ ] https://complyadvantage.com/careers/jobs/8500596002?gh_jid=8500596002 | ComplyAdvantage | Technical Account Manager 
+- [ ] https://complyadvantage.com/careers/jobs/8511908002?gh_jid=8511908002 | ComplyAdvantage | Technical Support Manager
+- [ ] https://mindfoundry.ai/careers-apply?gh_jid=7662539003 | Mind Foundry | Machine Learning Engineer (Forward Deployed)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7621880003 | Tide | Analyst, Level 1, Onboarding KYX, UK
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7632869003 | Tide | Customer Success Specialist 
+- [ ] https://job-boards.greenhouse.io/tide/jobs/5943791003 | Tide | Customer Support Specialist (Paid Plans)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7494094003 | Tide | Inside Sales- Kannada/ Tamil/ Telugu
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7686109003 | Tide | Sales Support Specialist
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7718232003 | Tide | Senior Business Development Representative (Partner Credit Services - Funding Options)
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7696230003 | Tide | Senior IT Support Engineer
+- [ ] https://business.trustpilot.com/jobs/7723195?gh_jid=7723195 | Trustpilot | Customer Success Manager
+- [ ] https://business.trustpilot.com/jobs/7699551?gh_jid=7699551 | Trustpilot | Senior Technical Account Manager - Europe
+- [ ] https://jobs.ashbyhq.com/plaid/3f299587-7bed-4e59-9eb1-2d5d1df01821 | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/1b95a614-d0db-4921-be22-edca18236229 | Plaid | Technical Account Manager - Enterprise
+- [ ] https://jobs.ashbyhq.com/plaid/df988964-a927-4cd7-bf5e-134e5184b172 | Plaid | Sales Development Representative
+- [ ] https://jobs.ashbyhq.com/plaid/b8e31158-ee2d-4cf9-8195-88b894ac953f | Plaid | Senior Developer Relations Engineer - Customer Growth and Experience
+- [ ] https://jobs.ashbyhq.com/plaid/074469a2-877e-4d87-9ea7-824e8bb02836 | Plaid | Implementation Specialist – Credit
+- [ ] https://jobs.ashbyhq.com/plaid/0fa54ba6-25fd-44ce-86fb-d83cddbaba54 | Plaid | Manager, Sales Development - Inbound
+- [ ] https://apply.workable.com/j/2DFDFC6BEE | Starling Bank | Senior Solutions Engineer - Engine by Starling
+- [ ] https://apply.workable.com/j/365ADEC8FE | Starling Bank | Senior Technical Account Manager - Engine by Starling
+- [ ] https://apply.workable.com/j/45C7658A6D | Starling Bank | Technical Account Manager - Engine by Starling
+- [ ] https://jobs.ashbyhq.com/paddle/b6478aa1-fa42-42b4-94fb-3b3d3a24b4ae | Paddle | Senior Customer Support Specialist 
+- [ ] https://jobs.ashbyhq.com/paddle/9f0262a6-163f-4a60-ba74-3c6900139654 | Paddle | Developer Advocate
+- [ ] https://jobs.ashbyhq.com/paddle/8308c744-f1de-47f8-9119-4b0b0f91cde6 | Paddle | Onboarding Risk Team Lead
+- [ ] https://jobs.ashbyhq.com/paddle/f423ae5f-5f53-4e66-8839-02ae090680ac | Paddle | Onboarding Risk Analyst 
+- [ ] https://jobs.ashbyhq.com/paddle/6f179a48-eeb7-4bab-abbb-85704f8503da | Paddle | Onboarding Risk Team Lead 
+- [ ] https://jobs.ashbyhq.com/paddle/a2e6ef3c-52f9-4785-afdc-6a3d570edd3d | Paddle | Software Engineer - Developer Experience (Go)
+- [ ] https://jobs.ashbyhq.com/paddle/993717cf-9d6a-4377-9080-1c266eeae50a | Paddle | Customer Success Manager 
+- [ ] https://jobs.ashbyhq.com/paddle/95b262cc-7f31-4e2e-8f1f-f0cac9a8cf3f | Paddle | Associate Customer Success Manager 
+- [ ] https://jobs.ashbyhq.com/paddle/c6b8c52d-0ae0-4403-9a40-5947d1e857e4 | Paddle | Partner Marketing & Community Lead
+- [ ] https://jobs.ashbyhq.com/paddle/7ce1f342-3715-45ab-834a-ffafe97ce9d4 | Paddle | Business Development Representative
+- [ ] https://jobs.lever.co/zopa/3f8d501e-e4c8-4897-b295-f64ebd6c4ab3 | Zopa | Platform Engineer (Developer Experience)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7866094 | Intercom | Technical Support Engineer (Saturday - Wednesday)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198639008 | Anthropic | Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/DeepL/1e487159-8c12-4809-a140-401ee424c1b1 | DeepL | Customer Success Manager - Corporate
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5985351004 | Isomorphic Labs | Support Engineer
+- [ ] https://jobs.lever.co/pigment/266529a3-ab6c-4f93-a762-58c4fe3cc0e8 | Pigment | Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5466160004 | Hightouch | Technical Account Manager - EMEA
+- [ ] https://business.trustpilot.com/jobs/7662263?gh_jid=7662263 | Trustpilot | Senior Technical Account Manager - Europe
+- [ ] https://complyadvantage.com/careers/jobs/8524994002?gh_jid=8524994002 | ComplyAdvantage | Business Development Representative - Calling all Graduates!
+- [ ] https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002 | ComplyAdvantage | Solutions Consultant
+- [ ] https://apply.workable.com/j/5481F0A6A3 | Starling Bank | Senior Solutions Engineer - Engine by Starling
+- [ ] https://jobs.ashbyhq.com/claylabs/867b287a-4aee-41ba-885b-b80f1d8ef448 | Clay Labs | Enterprise Product Support Specialist (London)
+- [ ] https://jobs.ashbyhq.com/plaid/265a7e77-e6c0-4d04-ac35-23b86d21f810 | Plaid | Sales Development Representative
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7882502 | Scandit | Customer Success Engineer
+- [ ] https://jobs.lever.co/palantir/8a177362-abfe-4c62-8320-ed51856bc673 | Palantir | Support Engineer - US Government
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/5028260007 | Ada | Customer Solutions Consultant II
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/5116577007 | Ada | Implementation Consultant
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/4672468007 | Ada | Sales Development Representative 
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/4772608007 | Ada | Technical Support Advisor 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7400242?gh_jid=7400242 | Cloudflare | Business Development Representative
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7676967?gh_jid=7676967 | Cloudflare | Business Development Representative, ASEAN
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6557318?gh_jid=6557318 | Cloudflare |  Business Development Representative (BDR) 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7657028?gh_jid=7657028 | Cloudflare | Business Development Representative - Danish, Norwegian or Swedish Speaking
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7694407?gh_jid=7694407 | Cloudflare | Business Development Representative - Dutch Speaking
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7667703?gh_jid=7667703 | Cloudflare | Business Development Representative, GCR (Beijing-based)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7547572?gh_jid=7547572 | Cloudflare | Customer Success Manager
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7577962?gh_jid=7577962 | Cloudflare | Customer Success Manager, EMEA
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7620498?gh_jid=7620498 | Cloudflare | EMEA Onboarding Lead
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7756883?gh_jid=7756883 | Cloudflare | Manager, BDR - SAARC
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7601717?gh_jid=7601717 | Cloudflare | Manager - Technical Support
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7757293?gh_jid=7757293 | Cloudflare | People Operations Implementation Manager (Fixed Term)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7667873?gh_jid=7667873 | Cloudflare | Sales Development Representative
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7612689?gh_jid=7612689 | Cloudflare | Senior Customer Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7358930?gh_jid=7358930 | Cloudflare | Senior Customer Success Manager, Nordics
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7731626?gh_jid=7731626 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6393993?gh_jid=6393993 | Cloudflare | Senior Majors Accounts Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7378442?gh_jid=7378442 | Cloudflare | Senior Majors Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7469508?gh_jid=7469508 | Cloudflare | Senior Manager, Solutions Architecture, AI & Developer Platform
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7493333?gh_jid=7493333 | Cloudflare | Senior Manager, Solutions Engineering
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7439830?gh_jid=7439830 | Cloudflare | Senior Manager, Solutions Engineering Pre-Sales, Northern Europe
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7761342?gh_jid=7761342 | Cloudflare | Senior Manager, Solutions Engineering UKI 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6539277?gh_jid=6539277 | Cloudflare | Senior Named Solutions Engineer, Public Sector   
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882 | Cloudflare | Senior Named Solutions Engineer, UKI
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7582021?gh_jid=7582021 | Cloudflare | Senior Partner Solutions Engineer, SAARC (India)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6991269?gh_jid=6991269 | Cloudflare | Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7518672?gh_jid=7518672 | Cloudflare | Senior Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7767766?gh_jid=7767766 | Cloudflare | Senior Solutions Engineer 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7794080?gh_jid=7794080 | Cloudflare | Senior Solutions Engineer (based in Melbourne)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747 | Cloudflare | Senior Solutions Engineer - Calgary
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7714390?gh_jid=7714390 | Cloudflare | Senior Solutions Engineer, Commercial Accounts - Montreal, QC
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7662538?gh_jid=7662538 | Cloudflare | Senior Solutions Engineer, Digital Native
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7380486?gh_jid=7380486 | Cloudflare | Senior Solutions Engineer, Digital Native Business
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7518684?gh_jid=7518684 | Cloudflare | Senior Solutions Engineer - Digital Native Enterprise - West
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7601630?gh_jid=7601630 | Cloudflare | Senior Solutions Engineer - Egypt, Kuwait & Bahrain
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7782508?gh_jid=7782508 | Cloudflare | Senior Solutions Engineer, Enterprise Accounts - Charlotte or Raleigh, NC
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7778956?gh_jid=7778956 | Cloudflare | Senior Solutions Engineer, Enterprise Accounts - Miami
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7518699?gh_jid=7518699 | Cloudflare | Senior Solutions Engineer, Enterprise Accounts - NYC
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7528276?gh_jid=7528276 | Cloudflare | Senior Solutions Engineering Manager, West
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7374554?gh_jid=7374554 | Cloudflare | Senior Solutions Engineer, Majors
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7655747?gh_jid=7655747 | Cloudflare | Senior Solutions Engineer, Majors - Kansas City, MO or St. Louis, MO
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7520051?gh_jid=7520051 | Cloudflare | Senior Solutions Engineer, Majors, Philadelphia or Pittsburgh 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7864156?gh_jid=7864156 | Cloudflare | Senior Solutions Engineer, Majors, Raleigh, NC
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7618422?gh_jid=7618422 | Cloudflare | Senior Solutions Engineer, Majors - Tampa
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7406531?gh_jid=7406531 | Cloudflare | Senior Solutions Engineer - Mid-Market
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7786402?gh_jid=7786402 | Cloudflare | Senior Solutions Engineer - Mid-Market Tampa
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7518676?gh_jid=7518676 | Cloudflare | Senior Solutions Engineer, Named Accounts
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7518670?gh_jid=7518670 | Cloudflare | Senior Solutions Engineer - New England
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475 | Cloudflare | Senior Solutions Engineer, Public Sector Federal
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7526134?gh_jid=7526134 | Cloudflare | Senior Solutions Engineer, Russian Speaker 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7275868?gh_jid=7275868 | Cloudflare | Senior Solutions Engineer - Russian Speaking
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7765245?gh_jid=7765245 | Cloudflare | Senior Solutions Engineer, Shanghai
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553 | Cloudflare | Senior Solutions Engineer, SLED
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7526029?gh_jid=7526029 | Cloudflare | Senior Solutions Engineer, Ukrainian speaker
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7261894?gh_jid=7261894 | Cloudflare | Senior Specialist Solutions Engineer, Zero Trust - Japan
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7822857?gh_jid=7822857 | Cloudflare | Senior Strategic Solutions Engineer, Bengaluru
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7767908?gh_jid=7767908 | Cloudflare | Senior Strategic Solutions Engineer, Delhi NCR
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7612087?gh_jid=7612087 | Cloudflare | Senior Technical Support Engineer, Application Performance
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7268796?gh_jid=7268796 | Cloudflare | Senior Technical Support Engineer, Developer Platform
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7520215?gh_jid=7520215 | Cloudflare | Solutions Engineering Manager, Commercial -  West
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269 | Cloudflare | Technical Support Engineer, Application Performance (Mexico City)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7604011 | MongoDB | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7696235 | MongoDB | Customer Success Manager - Turkish Speaker
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7375469 | MongoDB | Manager, Customer Success
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7763001 | MongoDB | Manager, Sales Development
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7732991 | MongoDB | Manager, Sales Development (Kuala Lumpur Based)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7597734 | MongoDB | Manager, Solutions Architecture
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7793281 | MongoDB | Product Manager, Developer Experience
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7766076 | MongoDB | Regional Vice President, Sales Development, Americas
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7380221 | MongoDB | Sales Development Representative
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7746436 | MongoDB | Sales Development Representative - Thai Speaking
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7358843 | MongoDB | (Senior) Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7551285 | MongoDB | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7582813 | MongoDB | Senior Customer Success Manager 
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7241758 | MongoDB | Senior Developer Advocate
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7700740 | MongoDB | Senior Partner Solutions Architect
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7409331 | MongoDB | Senior Pre-Sales Solutions Architect
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7388900 | MongoDB | Senior Product Manager, Python Developer Experience
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7392902 | MongoDB | Senior Software Engineer, Forward Deployed AI Engineer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7593532 | MongoDB | Senior Solutions Architect
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7368165 | MongoDB | Senior Solutions Architect (Pre-Sales)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7640020 | MongoDB | Senior Vice President, Solutions Architecture
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5829409004 | Grafana Labs | Sales Development Representative | Germany | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5976453004 | Grafana Labs | Sales Development Representative | PST | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5838158004 | Grafana Labs | Senior Solutions Engineer | East Coast | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5697434004 | Grafana Labs | Senior Solutions Engineer | Germany | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5734966004 | Grafana Labs | Senior Solutions Engineer | Italy | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5829645004 | Grafana Labs | Senior Solutions Engineer | Mid Atlantic or Southeast | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5798765004 | Grafana Labs | Senior Solutions Engineer | Spain | Remote 
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5789080004 | Grafana Labs | Senior Solutions Engineer | Sweden | Remote 
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5840429004 | Grafana Labs | Senior Solutions Engineer | UK | Remote
+- [ ] https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716 | Datadog | Customer Success Associate
+- [ ] https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129 | Datadog | Customer Success Associate - Commercial Accounts
+- [ ] https://careers.datadoghq.com/detail/7813304/?gh_jid=7813304 | Datadog | Customer Success Associate - Commercial Accounts (ASEAN Market)
+- [ ] https://careers.datadoghq.com/detail/7761064/?gh_jid=7761064 | Datadog | Customer Success Associate - Dublin
+- [ ] https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048 | Datadog | Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/7816557/?gh_jid=7816557 | Datadog | Customer Success Manager - Key Accounts
+- [ ] https://careers.datadoghq.com/detail/7658144/?gh_jid=7658144 | Datadog | Customer Success Manager - Spanish
+- [ ] https://careers.datadoghq.com/detail/7435209/?gh_jid=7435209 | Datadog | Enterprise Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/7722705/?gh_jid=7722705 | Datadog | Enterprise Customer Success Manager - West
+- [ ] https://careers.datadoghq.com/detail/7785860/?gh_jid=7785860 | Datadog | Field Enablement Manager (Customer Success)
+- [ ] https://careers.datadoghq.com/detail/7745775/?gh_jid=7745775 | Datadog | GTM Strategy & Operations Senior Associate - Sales Development & AI
+- [ ] https://careers.datadoghq.com/detail/7809909/?gh_jid=7809909 | Datadog | Implementation Services Project Manager
+- [ ] https://careers.datadoghq.com/detail/7807916/?gh_jid=7807916 | Datadog | Implementation Services Project Manager - Denver
+- [ ] https://careers.datadoghq.com/detail/7524140/?gh_jid=7524140 | Datadog | Manager, Enterprise Customer Success
+- [ ] https://careers.datadoghq.com/detail/7852317/?gh_jid=7852317 | Datadog | Manager II, Federal Support Engineering - Denver
+- [ ] https://careers.datadoghq.com/detail/7496237/?gh_jid=7496237 | Datadog | Manager II, Premier Support Engineering - Amsterdam
+- [ ] https://careers.datadoghq.com/detail/7343626/?gh_jid=7343626 | Datadog | Manager I, Technical Support Engineering
+- [ ] https://careers.datadoghq.com/detail/7660508/?gh_jid=7660508 | Datadog | Manager, Sales Development
+- [ ] https://careers.datadoghq.com/detail/7757745/?gh_jid=7757745 | Datadog | Regional Manager, Sales Engineering - Chicago
+- [ ] https://careers.datadoghq.com/detail/7514910/?gh_jid=7514910 | Datadog | Sales Development Representative
+- [ ] https://careers.datadoghq.com/detail/7180254/?gh_jid=7180254 | Datadog | Sales Development Representative (Benelux)
+- [ ] https://careers.datadoghq.com/detail/7179866/?gh_jid=7179866 | Datadog | Sales Development Representative - Iberia
+- [ ] https://careers.datadoghq.com/detail/6998241/?gh_jid=6998241 | Datadog | Sales Development Representative (Middle East)
+- [ ] https://careers.datadoghq.com/detail/6857395/?gh_jid=6857395 | Datadog | Sales Development Representative (Nordics) - Dublin
+- [ ] https://careers.datadoghq.com/detail/7016097/?gh_jid=7016097 | Datadog | Sales Development Representative (UKI)
+- [ ] https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520 | Datadog | Senior Developer Advocate - Data Observability
+- [ ] https://careers.datadoghq.com/detail/7750751/?gh_jid=7750751 | Datadog | Senior Product Solutions Architect - Logs
+- [ ] https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368 | Datadog | Senior Sales Engineer
+- [ ] https://careers.datadoghq.com/detail/7843333/?gh_jid=7843333 | Datadog | Senior Sales Engineer - Italy
+- [ ] https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279 | Datadog | Senior Sales Engineer - Key Accounts
+- [ ] https://careers.datadoghq.com/detail/7711785/?gh_jid=7711785 | Datadog | Senior Sales Engineer - Key Accounts Northcentral
+- [ ] https://careers.datadoghq.com/detail/7711883/?gh_jid=7711883 | Datadog | Senior Sales Engineer - Key Accounts Southcentral
+- [ ] https://careers.datadoghq.com/detail/7791296/?gh_jid=7791296 | Datadog | Senior Sales Engineer - Majors (France)
+- [ ] https://careers.datadoghq.com/detail/7862489/?gh_jid=7862489 | Datadog | Technical Account Manager 2 
+- [ ] https://careers.datadoghq.com/detail/7834561/?gh_jid=7834561 | Datadog | Technical Account Manager 2 - Denver
+- [ ] https://careers.datadoghq.com/detail/7834547/?gh_jid=7834547 | Datadog | Technical Account Manager 2 - NYC
+- [ ] https://careers.datadoghq.com/detail/7834545/?gh_jid=7834545 | Datadog | Technical Account Manager 2 - São Paulo
+- [ ] https://careers.datadoghq.com/detail/7708309/?gh_jid=7708309 | Datadog | Technical Account Manager 2 (Thai Speaking)
+- [ ] https://careers.datadoghq.com/detail/7683009/?gh_jid=7683009 | Datadog | Technical Account Manager 3
+- [ ] https://careers.datadoghq.com/detail/7839435/?gh_jid=7839435 | Datadog | Technical Account Manager 3 - London
+- [ ] https://careers.datadoghq.com/detail/7812351/?gh_jid=7812351 | Datadog | Technical Support Engineer 1
+- [ ] https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229 | Datadog | Technical Support Engineer 1 - 2
+- [ ] https://careers.datadoghq.com/detail/6761448/?gh_jid=6761448 | Datadog | Technical Support Engineer 2
+- [ ] https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253 | Datadog | Technical Support Engineer 2, Premier - EMEA
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7501798003 | Postman | Customer Success Engineer - APAC
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7501796003 | Postman | Customer Success Engineer/Devops
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7542056003 | Postman | Enterprise Customer Success Manager, UK
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7651740003 | Postman | Senior Developer Advocate
+- [ ] https://job-boards.greenhouse.io/postman/jobs/6524363003 | Postman | Senior Solutions Architect
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138 | Elastic | Senior Developer Advocate
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130 | Elastic | Senior Developer Advocate (Video Content Creator)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7798047&gh_jid=7798047 | Elastic | Senior Manager, Solutions Architecture (Pre-Sales)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7784246&gh_jid=7784246 | Elastic | Senior Solutions Architect
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7031770&gh_jid=7031770 | Elastic | Senior Solutions Architect, Expand Southeast (Presales)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7635520&gh_jid=7635520 | Elastic | Senior Solutions Architect - Public Sector
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7798051&gh_jid=7798051 | Elastic | Senior Solutions Architect, Pursuit (Presales)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7747631&gh_jid=7747631 | Elastic | Senior Solutions Architect - SLED
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7663327&gh_jid=7663327 | Elastic | Sr. Solutions Architect - Expand West (Presales)
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7833918&gh_jid=7833918 | Elastic | Sr. Solutions Architect - SLED
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7546232&gh_jid=7546232 | Elastic | Support Engineer 
+- [ ] https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004 | Figma | Associate Solutions Consultant
+- [ ] https://boards.greenhouse.io/figma/jobs/5834922004?gh_jid=5834922004 | Figma | Developer Advocate
+- [ ] https://boards.greenhouse.io/figma/jobs/5615966004?gh_jid=5615966004 | Figma | Enterprise Solutions Consultant (Bengaluru, India)
+- [ ] https://boards.greenhouse.io/figma/jobs/5985033004?gh_jid=5985033004 | Figma | Enterprise Support Specialist
+- [ ] https://boards.greenhouse.io/figma/jobs/5859050004?gh_jid=5859050004 | Figma | Onboarding Manager, Customer Experience 
+- [ ] https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004 | Figma | Software Engineer, Developer Experience
+- [ ] https://boards.greenhouse.io/figma/jobs/5783377004?gh_jid=5783377004 | Figma | Solutions Consultant
+- [ ] https://boards.greenhouse.io/figma/jobs/5735853004?gh_jid=5735853004 | Figma | Solutions Consultant (Berlin, Germany)
+- [ ] https://boards.greenhouse.io/figma/jobs/5981822004?gh_jid=5981822004 | Figma | Solutions Consultant, Federal
+- [ ] https://boards.greenhouse.io/figma/jobs/5735542004?gh_jid=5735542004 | Figma | Solutions Consultant (Paris, France)
+- [ ] https://boards.greenhouse.io/figma/jobs/5814274004?gh_jid=5814274004 | Figma | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5839232004 | Algolia | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5893252004 | Algolia | Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5836263004 | Algolia | Junior Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5844220004 | Algolia | Senior Customer Success Manager 
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5977648004 | Algolia | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5798538004 | Algolia | Technical Onboarding & Engagement Manager
+- [ ] https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13 | Notion | Outbound Business Development Representative 
+- [ ] https://jobs.ashbyhq.com/notion/dda89eef-ad64-4b84-af95-d0c4896cae42 | Notion | Software Engineer, Developer Experience
+- [ ] https://jobs.ashbyhq.com/notion/d397d9c7-0d37-45fe-a218-c7b69812a237 | Notion | Manager, Scaled Customer Success
+- [ ] https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733 | Notion | Sales Development Representative, Japan
+- [ ] https://jobs.ashbyhq.com/notion/759fe7e9-0cbc-4a4c-bfa5-064b96247b12 | Notion | Solutions Consultant
+- [ ] https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399 | Notion | Manager, Sales Development
+- [ ] https://jobs.ashbyhq.com/notion/8ca01f57-f808-43bc-ae39-cb35fdad1dc5 | Notion | Enterprise Customer Success Manager, Japan
+- [ ] https://jobs.ashbyhq.com/notion/3c0141de-06fb-4186-9cd4-75395f0b5488 | Notion | Manager, Solutions Engineering, Mid-Market
+- [ ] https://jobs.ashbyhq.com/notion/989efb46-b3a1-4eaf-a3fe-44669a43dd5a | Notion | Sales Development Representative, EMEA (Inbound)
+- [ ] https://jobs.ashbyhq.com/notion/4895df6c-fc12-4bd5-8c2f-07a8877a2468 | Notion | Scaled Customer Success Manager
+- [ ] https://jobs.ashbyhq.com/notion/c7f6dbf1-5637-45c5-8495-57a65f1061d2 | Notion | Business Development Representative, UKI
+- [ ] https://jobs.ashbyhq.com/notion/655992c3-b372-48e1-96f3-e52a139b8a0c | Notion | Sales Engineering Manager, Enterprise, EMEA
+- [ ] https://jobs.ashbyhq.com/notion/a69a78e9-89d2-4a41-8938-6c07ca8a06da | Notion | Customer Success Enablement Program Manager
+- [ ] https://jobs.ashbyhq.com/notion/70a048d5-802b-4aed-aa73-30afc34ca35a | Notion | Scaled Customer Success Manager, Japan
+- [ ] https://jobs.ashbyhq.com/notion/42abb9c5-6f2d-48ae-bb85-cca0e1e902d5 | Notion | Product Support Specialist (Contract)
+- [ ] https://jobs.ashbyhq.com/notion/5cc98646-931a-4c00-be36-f292fa1f431f | Notion | Mid-Market Customer Success Manager, Japan
+- [ ] https://jobs.ashbyhq.com/notion/1c58623e-73f8-43c7-a342-1475c2eab7af | Notion | Digital Customer Success Program Manager
+- [ ] https://jobs.ashbyhq.com/notion/ece7d4c3-5a47-44d3-9ba3-85b091289605 | Notion | Enterprise Technical Premium Support Specialist
+- [ ] https://jobs.ashbyhq.com/notion/d3a5ddb0-335a-4299-b67f-1c937a584c7f | Notion | Enterprise Technical Support Specialist - NYC
+- [ ] https://jobs.ashbyhq.com/notion/785573a1-93b9-4f7e-b84a-c224d1d98b66 | Notion | Manager, Customer Success Japan
+- [ ] https://jobs.ashbyhq.com/notion/15f37b73-d217-469a-adfc-2e50cc9e2374 | Notion | Enterprise Technical Support
+- [ ] https://jobs.lever.co/contentsquare/82fa86f7-2caf-4bd9-93cf-ca3246bc7965 | Contentsquare | Customer Success Manager, Scaled Programs
+- [ ] https://jobs.lever.co/contentsquare/2d6bf655-b33c-45c4-80c1-b8c13c4e8fae | Contentsquare | Customer Success Operations Lead
+- [ ] https://jobs.lever.co/contentsquare/1860f3f2-68d2-40b8-9e4a-43c756be1142 | Contentsquare | Product Owner - CSM Applications
+- [ ] https://jobs.lever.co/contentsquare/ca8108e5-4993-40e0-b89a-5728218df5cb | Contentsquare | Sales Development Representative
+- [ ] https://jobs.lever.co/contentsquare/4ce66afd-3bab-4667-8a07-978eb48dac6d | Contentsquare | Sales Development Representative - English speaking
+- [ ] https://jobs.lever.co/contentsquare/65826a68-f452-491f-8e87-a1e95a3a46cc | Contentsquare | Sales Development Representative, Italy
+- [ ] https://jobs.lever.co/contentsquare/b2e07e2a-343e-4330-81be-ecc05074d61b | Contentsquare | Senior Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/perk/d467fe4c-aa91-491d-8538-c7e0d3db795a | Perk (formerly TravelPerk) | Sales Development Representative - Benelux & Nordics
+- [ ] https://jobs.ashbyhq.com/perk/18d847a2-721f-4e2d-b1bc-52964f397fa9 | Perk (formerly TravelPerk) | Sales Development Representative UKI
+- [ ] https://jobs.ashbyhq.com/perk/44e31fa8-790e-4779-b030-cca21683365a | Perk (formerly TravelPerk) | Sales Development Representative  - French
+- [ ] https://jobs.ashbyhq.com/perk/0e8867fc-c9b0-4c74-a08a-b355585c15a8 | Perk (formerly TravelPerk) | SDR Growth Markets - CEE 
+- [ ] https://jobs.ashbyhq.com/perk/fc436467-d877-4516-a26e-ac1fdb94cb75 | Perk (formerly TravelPerk) | Sales Development Representative - Nordic Markets
+- [ ] https://jobs.ashbyhq.com/perk/cdd3533a-5156-417c-bf3d-33de0ba847f0 | Perk (formerly TravelPerk) | Sales Development Representative - Swedish Market
+- [ ] https://jobs.ashbyhq.com/perk/c3a762c9-04fa-42a3-b4ef-fb4227cf279d | Perk (formerly TravelPerk) | Customer Success Associate
+- [ ] https://jobs.ashbyhq.com/perk/c6a53908-bb09-4847-8e57-cb1c888f8fd4 | Perk (formerly TravelPerk) | SDR Team Leader - UKI
+- [ ] https://jobs.ashbyhq.com/perk/d58a86bf-d674-4291-863b-005bf6884261 | Perk (formerly TravelPerk) | SDR (Inbound) - UKI and FR
+- [ ] https://jobs.ashbyhq.com/perk/2627985f-84b5-4ea0-a584-cb77fafeaaa7 | Perk (formerly TravelPerk) | Senior Onboarding Specialist - French Market 
+- [ ] https://jobs.ashbyhq.com/perk/61b63a9c-d5b4-4bbf-a55d-58403a83c222 | Perk (formerly TravelPerk) | Inside SDR - Perk Events
+- [ ] https://jobs.ashbyhq.com/perk/69351a70-113a-42f8-b6c4-2285783783a4 | Perk (formerly TravelPerk) | Sales Development Manager - US
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/4898479007 | Ada | Customer Solutions Consultant II
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7667868?gh_jid=7667868 | Cloudflare | Business Development Representative
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7504375?gh_jid=7504375 | Cloudflare | Customer Success Manager
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7646137?gh_jid=7646137 | Cloudflare | Senior Customer Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7731685?gh_jid=7731685 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7505995?gh_jid=7505995 | Cloudflare | Senior Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7593597?gh_jid=7593597 | Cloudflare | Senior Strategic Solutions Engineer, Bengaluru
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7571625 | MongoDB | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7768655 | MongoDB | Manager, Sales Development
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7728309 | MongoDB | Manager, Solutions Architecture
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7566671 | MongoDB | Sales Development Representative
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7641491 | MongoDB | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7495485 | MongoDB | Senior Developer Advocate
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7683484 | MongoDB | Senior Partner Solutions Architect
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7378931 | MongoDB | Senior Product Manager, Python Developer Experience
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7590735 | MongoDB | Senior Software Engineer, Forward Deployed AI Engineer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7372171 | MongoDB | Senior Solutions Architect
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7759585 | MongoDB | Senior Solutions Architect (Pre-Sales)
+- [ ] https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779 | Datadog | Customer Success Associate
+- [ ] https://careers.datadoghq.com/detail/7790098/?gh_jid=7790098 | Datadog | Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/7785252/?gh_jid=7785252 | Datadog | Customer Success Manager - Key Accounts
+- [ ] https://careers.datadoghq.com/detail/7794297/?gh_jid=7794297 | Datadog | Enterprise Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/7660700/?gh_jid=7660700 | Datadog | Manager, Sales Development
+- [ ] https://careers.datadoghq.com/detail/7806043/?gh_jid=7806043 | Datadog | Sales Development Representative
+- [ ] https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768 | Datadog | Senior Product Solutions Architect - Logs
+- [ ] https://careers.datadoghq.com/detail/7813863/?gh_jid=7813863 | Datadog | Technical Support Engineer 1
+- [ ] https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301 | Datadog | Technical Support Engineer 1 - 2
+- [ ] https://careers.datadoghq.com/detail/6759702/?gh_jid=6759702 | Datadog | Technical Support Engineer 2
+- [ ] https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36 | Notion | Outbound Business Development Representative 
+- [ ] https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5 | Notion | Software Engineer, Developer Experience
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5834932004 | Algolia | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5813648004 | Algolia | Senior Customer Success Manager 
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210 | Elastic | Senior Developer Advocate
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7747112&gh_jid=7747112 | Elastic | Senior Solutions Architect - SLED
+- [ ] https://jobs.lever.co/contentsquare/aeaca87b-8114-4e24-9a79-979f5deca6b4 | Contentsquare | Customer Success Operations Lead
+- [ ] https://careers.datadoghq.com/detail/7794029/?gh_jid=7794029 | Datadog | Enterprise Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/7789198/?gh_jid=7789198 | Datadog | Manager, Sales Development
+- [ ] https://careers.datadoghq.com/detail/7805001/?gh_jid=7805001 | Datadog | Sales Development Representative
+- [ ] https://careers.datadoghq.com/detail/7477573/?gh_jid=7477573 | Datadog | Technical Support Engineer 2
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7736115 | MongoDB | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7317943 | MongoDB | Sales Development Representative
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7836453 | MongoDB | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7860071 | MongoDB | Senior Developer Advocate
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7560436 | MongoDB | Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7547599?gh_jid=7547599 | Cloudflare | Customer Success Manager
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7677798?gh_jid=7677798 | Cloudflare | Senior Customer Solutions Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7728103?gh_jid=7728103 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4857663101 | PolyAI | Strategic Business Development Representative
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7862786 | Intercom | Account Executive, MidMarket (LATAM) 
+- [ ] https://sumup.com/careers/positions/8535553002?gh_jid=8535553002 | SumUp | Sales Development Team Lead - French Speaker
+- [ ] https://sumup.com/careers/positions/8534266002?gh_jid=8534266002 | SumUp | SDR Team Lead - Dutch Speaker
+- [ ] https://jobs.ashbyhq.com/legora/9842be4f-a0a1-4fc8-9a76-a1b6744da664 | Legora | IT Support Specialist - Stockholm
+- [ ] https://jobs.ashbyhq.com/synthesia/cb064c2f-467f-4bf5-9d31-9aa21cd0255b | Synthesia | Enterprise Customer Success Manager - German Speaker
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7892149?gh_jid=7892149 | Cloudflare | Business Development Representative, ASEAN
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7547537?gh_jid=7547537 | Cloudflare | Customer Success Manager
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7778849?gh_jid=7778849 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7738878 | MongoDB | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7790438 | MongoDB | Manager, Solutions Architecture
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7530648 | MongoDB | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7661623 | MongoDB | Senior Customer Success Manager - German Speaking
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7571308 | MongoDB | Senior Developer Advocate
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7581417 | MongoDB | Senior Solutions Architect
+- [ ] https://careers.datadoghq.com/detail/7874877/?gh_jid=7874877 | Datadog | Customer Success Associate (French Speaking)
+- [ ] https://careers.datadoghq.com/detail/7436312/?gh_jid=7436312 | Datadog | Enterprise Customer Success Manager
+- [ ] https://careers.datadoghq.com/detail/6686710/?gh_jid=6686710 | Datadog | Sales Development Representative
+- [ ] https://careers.datadoghq.com/detail/7034798/?gh_jid=7034798 | Datadog | Sales Development Representative (France)
+- [ ] https://job-boards.greenhouse.io/pendo/jobs/8525007002 | Pendo | Sr. Customer Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/pendo/jobs/8525010002 | Pendo | Sr. Customer Engineer, Enterprise 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5988893004 | Arize AI | IT Support Specialist
+- [ ] https://jobs.ashbyhq.com/lakera.ai/523d6d1a-0385-496a-ad74-ecd5f64212be | Lakera | Solutions Engineer, Manager (UK)
+- [ ] https://jobs.ashbyhq.com/harvey/8a27e75f-7389-4ab5-bfd0-3e941b461902 | Harvey | Majors Customer Success Manager
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7547626?gh_jid=7547626 | Cloudflare | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7738877 | MongoDB | Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7623498 | MongoDB | Senior Customer Success Manager
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7661624 | MongoDB | Senior Customer Success Manager - German Speaking
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7595025 | MongoDB | Senior Solutions Architect
+- [ ] https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240 | Datadog | Customer Success Associate - Denver
+- [ ] https://careers.datadoghq.com/detail/7806117/?gh_jid=7806117 | Datadog | Sales Development Representative
+- [ ] https://careers.datadoghq.com/detail/7873854/?gh_jid=7873854 | Datadog | Sales Development Representative (Turkey)
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7725125003 | Postman | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7710381003 | Postman | Renewals Support Specialist
+- [ ] https://jobs.elastic.co/jobs?gh_jid=6946260&gh_jid=6946260 | Elastic | Sales Development Representative - New York, NY (On-Site)
+- [ ] https://job-boards.greenhouse.io/pendo/jobs/8524924002 | Pendo | Business Development Representative - ANZ
+- [ ] https://job-boards.greenhouse.io/pendo/jobs/8525009002 | Pendo | Sr. Customer Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/pendo/jobs/8525006002 | Pendo | Sr. Customer Engineer, Enterprise 
+- [ ] https://jobs.ashbyhq.com/notion/2505ddde-b2c1-4b01-8f75-414dc26ab843 | Notion | Technical Support Manager, EMEA
+- [ ] https://jobs.ashbyhq.com/synthesia/cb0cab4f-b579-426c-ae4a-ad97f05b426c | Synthesia | Enterprise Customer Success Manager - London
+- [ ] https://jobs.ashbyhq.com/deepgram/0cad835e-c581-4735-8e8f-b9f1f7107b10 | Deepgram | Revenue Operations Analyst
+- [ ] https://jobs.ashbyhq.com/sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8 | Sierra | Pricing Strategy and Operations
+- [ ] https://jobs.ashbyhq.com/sierra/21a4df49-1b95-4fe9-b375-af6cf69c0812 | Sierra | GTM Operations Analyst
+- [ ] https://jobs.ashbyhq.com/sierra/8023c5e9-5622-4f50-b3ba-0690a60e4cb2 | Sierra | GTM Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1 | LangChain | EMEA Deal Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/langchain/4c2bd9b2-58c0-4ef8-8b11-b742bf964f99 | LangChain | EMEA Sales Strategy & Operations Lead 
+- [ ] https://jobs.ashbyhq.com/n8n/e77c1fa5-1232-49a3-9db3-b291cd79006b | n8n | Sales Strategy & Operations Manager – US (East Coast-based)
+- [ ] https://jobs.ashbyhq.com/decagon/37d06ec4-153c-4486-b371-815cd90be94f | Decagon | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/decagon/4ac15d8e-8c15-4411-89d4-f5215a6720b1 | Decagon | Revenue Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e | Cohere | Business Operations Lead
+- [ ] https://n26.com/en-eu/careers/positions/7806657?gh_jid=7806657 | N26 | Banking Operations Analyst - French speaker
+- [ ] https://traderepublic.com/en-de/about?jobId=7599040003&gh_jid=7599040003 | Trade Republic | Process Operations Analyst/Associate - German Speaker
+- [ ] https://traderepublic.com/en-de/about?jobId=6067355003&gh_jid=6067355003 | Trade Republic | Product Operations Associate/Manager
+- [ ] https://getyourguide.careers/jobs/7588318?gh_jid=7588318 | GetYourGuide | Business Operations & Strategy Manager - Account Management Operations (Price, Commission, Other)
+- [ ] https://sumup.com/careers/positions/5152350002?gh_jid=5152350002 | SumUp | Business Analyst
+- [ ] https://sumup.com/careers/positions/8526216002?gh_jid=8526216002 | SumUp | Compliance Operations Analyst with Spanish
+- [ ] https://sumup.com/careers/positions/8498277002?gh_jid=8498277002 | SumUp | Data Analyst - CoreOps 
+- [ ] https://sumup.com/careers/positions/8448674002?gh_jid=8448674002 | SumUp | Mid Data Analyst - Finance
+- [ ] https://careers.hellofresh.com/global/en/job/7601339?gh_jid=7601339 | HelloFresh | Data Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627 | HelloFresh | [HelloConnect] Product Data Analyst (SQL/Python)
+- [ ] https://careers.hellofresh.com/global/en/job/7807043?gh_jid=7807043 | HelloFresh |  Junior IT Financial Operations Analyst 
+- [ ] https://careers.hellofresh.com/global/en/job/7597827?gh_jid=7597827 | HelloFresh | Lead Product Operations (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7795996?gh_jid=7795996 | HelloFresh | Product Analyst (all genders) 
+- [ ] https://careers.hellofresh.com/global/en/job/7721611?gh_jid=7721611 | HelloFresh | Product Analyst (All Genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7900855?gh_jid=7900855 | HelloFresh | Product Operations Specialist (12 months contract)
+- [ ] https://jobs.ashbyhq.com/synthesia/56fe08af-6704-4b1f-a157-00561e4c5991 | Synthesia | Solutions Consultant (German Speaking)
+- [ ] https://jobs.ashbyhq.com/legora/d8793be1-1eac-411d-a383-8d4ff697eae5 | Legora | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/harvey/5f6f2bda-d222-4adf-b09c-13e5f2d78e2f | Harvey | IT Operations Analyst
+- [ ] https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03 | Clay Labs | Data Analyst
+- [ ] https://jobs.ashbyhq.com/claylabs/006f2c19-ee42-4d26-a9d5-bb1c28d1542f | Clay Labs | Deal Strategy & Ops
+- [ ] https://jobs.ashbyhq.com/claylabs/b996c889-9985-4ff1-98c3-ebf6b60b8790 | Clay Labs | GTME Ecosystem - Community Strategy & Ops
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | AI Operations, GTM
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant 
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7699256 | GoCardless | Data Analyst
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7734224003 | Tide | Account Operations Analyst
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7485306003 | Tide | Lead Product Operations Manager
+- [ ] https://business.trustpilot.com/jobs/7870979?gh_jid=7870979 | Trustpilot | Lead Data Analyst - Marketing Analytics
+- [ ] https://complyadvantage.com/careers/jobs/8545334002?gh_jid=8545334002 | ComplyAdvantage | Solutions Consultant
+- [ ] https://complyadvantage.com/careers/jobs/8503927002?gh_jid=8503927002 | ComplyAdvantage | Technology Operations Analyst
+- [ ] https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94 | Palantir | Site Reliability Operations Analyst - Commercial
+- [ ] https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576 | Palantir | Site Reliability Operations Analyst - UK Government
+- [ ] https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a | Palantir | Site Reliability Operations Analyst - US Government
+- [ ] https://jobs.ashbyhq.com/plaid/a7470e5b-2761-4251-9a59-a52c0f7c0e90 | Plaid | Product Operations
+- [ ] https://jobs.ashbyhq.com/plaid/30ced970-7ec6-4092-87bf-2fd2da50ce97 | Plaid | Marketing Strategy and Operations Analyst
+- [ ] https://jobs.ashbyhq.com/plaid/f58ef4f3-12d0-4cbf-8914-08439e6d36c0 | Plaid | Business Operations
+- [ ] https://apply.workable.com/j/8D83267CF7 | Starling Bank | Technology Operations Analyst
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7760222 | MongoDB | Business Operations & Strategy Associate
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7699287003 | Postman | Deal Operations Analyst
+- [ ] https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084 | Datadog | Associate Marketing Data Analyst - Marketing Analytics
+- [ ] https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331 | Datadog | GTM Strategy and Operations Associate
+- [ ] https://careers.datadoghq.com/detail/7814972/?gh_jid=7814972 | Datadog | Manager I, Engineering - APM Backend
+- [ ] https://careers.datadoghq.com/detail/7731735/?gh_jid=7731735 | Datadog | Manager I, Engineering - APM Retrieval
+- [ ] https://jobs.ashbyhq.com/notion/5dc7695e-139e-4679-a213-a733ee1d62d5 | Notion | Partner Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/notion/8b82e596-e828-45db-94d5-b76acc89e749 | Notion | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/notion/b9f037d6-c19b-4aef-961c-937e3c7a6042 | Notion | Marketing Strategy & Operations Manager, APAC
+- [ ] https://jobs.ashbyhq.com/notion/ef4d9a34-153f-47a7-ba9f-f9a9de821066 | Notion | Business Operations & Strategy Lead
+- [ ] https://jobs.lever.co/contentsquare/c6850e0b-0a42-43bd-9166-b0b81ff004de | Contentsquare | Solutions Consultant, Italy
+- [ ] https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050 | Spotify | Data Analyst II – Performance Optimization Squad
+- [ ] https://jobs.lever.co/spotify/713eb2e2-23c8-45fd-85a0-323109123ecd | Spotify | Markets Strategy & Operations Manager
+- [ ] https://jobs.lever.co/zopa/fce9fe48-9492-4f6c-9fe6-9430f0350af3 | Zopa | Product Analyst (Mid-level)
+- [ ] https://jobs.ashbyhq.com/sierra/2c5520b7-5914-480c-8706-d800fbe42935 | Sierra | Pricing Strategy and Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7721917?gh_jid=7721917 | HelloFresh | Product Analyst (All Genders)
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7699254 | GoCardless | Data Analyst
+- [ ] https://business.trustpilot.com/jobs/7912626?gh_jid=7912626 | Trustpilot | Lead Data Analyst - Marketing Analytics
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7699284003 | Postman | Deal Operations Analyst
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7760225 | MongoDB | Business Operations & Strategy Associate
+- [ ] https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f | Palantir | Site Reliability Operations Analyst - US Government
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3b517d94-7ecc-41ba-b49f-71c0671b27f7 | ElevenLabs | Impact Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/elevenlabs/65f83bd7-70da-4a31-a364-28fd0f361ea9 | ElevenLabs | Lead Generation Strategy and Operations
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8563194002 | Airtable | Lead Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6011651004 | Vercel | Product Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/n8n/edd9e287-262e-4fcb-8aa5-2067e6526efa | n8n | Product Data Analyst
+- [ ] https://jobs.ashbyhq.com/sierra/d30758ba-edbc-43f8-9862-ac239440fe5d | Sierra | Business Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7937338?gh_jid=7937338 | HelloFresh | [HELLOCONNECT] Product Operations Shared Services Center Leader
+- [ ] https://careers.hellofresh.com/global/en/job/7486530?gh_jid=7486530 | HelloFresh | ICT Business Analyst (Demand Systems)
+- [ ] https://n26.com/en-eu/careers/positions/7946282?gh_jid=7946282 | N26 | Strategy & Operations Associate - Lending
+- [ ] https://n26.com/en-eu/careers/positions/7913105?gh_jid=7913105 | N26 | Strategy & Operations Associate - Lending 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7750227003?gh_jid=7750227003 | Celonis | Strategic Applied AI Solutions Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7739087003?gh_jid=7739087003 | Celonis | Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/perk/6c1acfe8-a6c4-4a5d-bfd6-e219fdcb59d7 | Perk (formerly TravelPerk) | Data Analyst 
+- [ ] https://jobs.ashbyhq.com/perk/b13c3b8c-8f6b-402a-bddf-ff3fe570f015 | Perk (formerly TravelPerk) | Lead Solutions Consultant - US
+- [ ] https://jobs.ashbyhq.com/claylabs/b798c398-c11d-4d51-8c37-95cd657ca0a5 | Clay Labs | Product Operations
+- [ ] https://jobs.lever.co/mistral/ef656934-7246-4d93-b341-c907c348c444 | Mistral AI | Product Operations Manager
+- [ ] https://jobs.ashbyhq.com/resend/7c0abe7b-04a4-4876-9803-7c07acc869d1 | Resend | Data Analyst, Trust & Safety
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7916619 | GoCardless | Data Analyst (12 month FTC)
+- [ ] https://job-boards.greenhouse.io/gocardless/jobs/7938467 | GoCardless | Product Analyst
+- [ ] https://business.trustpilot.com/jobs/7912576?gh_jid=7912576 | Trustpilot | Lead Data Analyst - Marketing Analytics
+- [ ] https://jobs.lever.co/pigment/c75c7073-43d6-4b3e-993e-3b9ba7aab50b | Pigment | Technical Solutions Consultant
+- [ ] https://jobs.ashbyhq.com/primer.io/282f5186-2bb8-4627-9355-16b8267fb717 | Primer | AI Strategy & Enablement Lead
+- [ ] https://jobs.ashbyhq.com/primer.io/63e1849b-45ba-4c70-8867-cf8835fc21c4 | Primer | Product Ops Lead
+- [ ] https://jobs.ashbyhq.com/plaid/02569523-bd54-4f1f-b88e-38beef2f824d | Plaid | Fraud and Abuse Operations Analyst
+- [ ] https://jobs.ashbyhq.com/plaid/33379e81-e111-4bb8-8c6b-9e64d4fa51c5 | Plaid | GTM Strategy & Operations
+- [ ] https://complyadvantage.com/careers/jobs/8557920002?gh_jid=8557920002 | ComplyAdvantage | Solutions Consultant - French Speaking
+- [ ] https://apply.workable.com/j/E549DF8390 | Starling Bank | Information Security Operations Analyst (Sydney, Australia)
+- [ ] https://apply.workable.com/j/A57D6CB4AC | Starling Bank | Information Security Operations Analyst (Toronto, Canada)
+- [ ] https://careers.datadoghq.com/detail/7899542/?gh_jid=7899542 | Datadog | Billing Operations Analyst
+- [ ] https://boards.greenhouse.io/figma/jobs/5993635004?gh_jid=5993635004 | Figma | Solutions Consultant (Sydney, Australia)
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7974637 | MongoDB | Sales Operations Analyst
+- [ ] https://jobs.ashbyhq.com/notion/83c8907b-e05e-401a-a5de-9ebe0b1a800f | Notion | Strategy & Operations, Early Career
+- [ ] https://jobs.ashbyhq.com/notion/cfacf665-602d-43b2-9d92-7dfda3bb19a2 | Notion | Customer Success Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/notion/c45ae77a-37d4-451a-bc59-1723fb15422e | Notion | Central GTM Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/perk/cbdc07f0-ee67-4b2c-b1e6-9d4f6c6b53fa | Perk (formerly TravelPerk) | Lead Solutions Consultant - US
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7741514003?gh_jid=7741514003 | Celonis | Strategy & Operations Manager
+
+## Dropped — blocked geo in title (13)
+
+- [ ] https://careers.datadoghq.com/detail/7843358/?gh_jid=7843358 | Datadog | Enterprise Sales Engineer - Mexico
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7678355003 | Postman | Solutions Engineering Leader - India
+- [ ] https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44 | ElevenLabs | Enterprise Solutions Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program
+- [ ] https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f | ElevenLabs | Forward Deployed Engineer - Software Engineer - Singapore
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer - Vancouver
+- [ ] https://careers.datadoghq.com/detail/7984988/?gh_jid=7984988 | Datadog | Partner Solutions Architect (India GSI)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7955378?gh_jid=7955378 | Cloudflare | Customer Engineer, India (Based in Mumbai)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7956849?gh_jid=7956849 | Cloudflare | Customer Engineer, Territory (Malaysia and Singapore)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7976246?gh_jid=7976246 | Cloudflare | Enterprise Customer Engineer, Singapore
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7956846?gh_jid=7956846 | Cloudflare | Enterprise Customer Engineer, Thailand
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7975427?gh_jid=7975427 | Cloudflare | Field Solutions Engineer Brazil (US based)
